@@ -1,5 +1,5 @@
-criar bd_grautecnico
-
+criar banco de dados grautecnico
+usar banco de dados grautecnico
 criar tabela: informatica
 Inserir na tabela Informatica:
 id_inf      Nome              Turno
