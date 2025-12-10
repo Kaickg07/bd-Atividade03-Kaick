@@ -1,22 +1,21 @@
 criar banco de dados grautecnico
 usar banco de dados grautecnico
-criar tabela: informatica
-Inserir na tabela Informatica:
-id_inf      Nome              Turno
-1           José Silva        Manhã
-2           Mario Souza       Manhã
-3           Maria Ferreira    Manhã
+criar tabela: curso
+Inserir na tabela curso:
+id_curso     Nome        Carga
 
-criar tabela: Radiologia
-Inserir na tabela Radiologia:
-id_rad      Nome              Turno
-1           João Silva        Tarde
-2           Pedro Oliveira    Tarde
-3           Luís Pereira      Tarde
+criar tabela aluno: 
+Inserir na tabela aluno:
+id_aluno      Nome              Turno
 
-criar tabela: Enfermagem
-Inserir na tabela Enfermagem:
-id_enf      Nome              Turno
-1           Matheus Silva     Manhã
-2           Rodrigo Souza     Tarde
-3           Otávio Pessoa     Noite
+criar tabela: Disciplina
+Inserir na tabela Disciplina:
+id_disciplina      Nome         Horario
+
+
+criar tabela: Professor
+Inserir na tabela Professor:
+id_prof     Nome       Disciplina
+
+Diagrama:
+https://app.diagrams.net/?src=about#G1NRBwVPwKIfBLx1k946REMRBFxYvVnq9E#%7B%22pageId%22%3A%22jhT646TVmsN677gtO4Ra%22%7D
